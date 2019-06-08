@@ -1,0 +1,11 @@
+{
+    "name": "com.scottdoxey.unitypackagetemplate",
+    "displayName": "Unity Package Template",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "description": "Template for custom unity package",
+    "keywords": [
+    ],
+    "dependencies": {
+    }
+}
