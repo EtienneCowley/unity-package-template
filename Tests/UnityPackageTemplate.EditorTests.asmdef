@@ -1,0 +1,19 @@
+{
+    "name": "UnityPackageTemplate.EditorTests",
+    "references": [
+        "GUID:dd8ef015aa1414d20ba3267868b6d890"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
